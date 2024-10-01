@@ -32,6 +32,9 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right: 15px;"/> </a> 
 </p>
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xx-ale-xx&show_icons=true&locale=en&layout=compact&theme=dark" alt="xx-ale-xx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xx-ale-xx&theme=dark" alt="xx-ale-xx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xx-ale-xx&" alt="xx-ale-xx" /></p>
